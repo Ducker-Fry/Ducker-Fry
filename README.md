@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
 
-<!--
-**Ducker-Fry/Ducker-Fry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 技术栈与技能 🛠️
+- 主编程语言：C++，MySql
+- 其他语言：python
+- 掌握的主要开发工具：Qt
+- 工具链：Vim，git，powershell
 
-Here are some ideas to get you started:
+## 近期项目 🔥 
+- 用Qt实现俄罗斯方块游戏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 多维探索 🌈  
+- 非技术爱好：阅读推理小说
+
+## 关于我 🧩
+- 我对我编程的要求就是Don't Repeat Yourself。
